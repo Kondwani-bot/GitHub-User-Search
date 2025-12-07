@@ -1,0 +1,5 @@
+{
+  "name": "GitHub User Search",
+  "description": "A sleek and responsive web application to search for GitHub users in real-time. It features a debounced search for performance, loading states, and error handling, all built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
